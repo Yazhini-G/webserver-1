@@ -59,5 +59,7 @@ httpd.serve_forever()
 ![clientou![serveroutput](https://user-images.githubusercontent.com/120244201/211002658-d09dcc66-de59-40f7-939c-4b85ee38a5ed.png)
 tput](https://user-images.githubusercontent.com/120244201/211002640-12e08506-60f1-45de-a859-a0505d6c4fc3.png)
 
+ file:///home/sec/Documents/myfirstexperiment/webserver-1/images/serveroutput.png
+
 ## RESULT:
 The program is executed succesfully
