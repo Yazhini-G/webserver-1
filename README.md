@@ -56,10 +56,11 @@ print("my webserver is running...")
 httpd.serve_forever()
 ```
 ## OUTPUT:
+### client output :
 ![clientou![serveroutput](https://user-images.githubusercontent.com/120244201/211002658-d09dcc66-de59-40f7-939c-4b85ee38a5ed.png)
 tput](https://user-images.githubusercontent.com/120244201/211002640-12e08506-60f1-45de-a859-a0505d6c4fc3.png)
-
- file:///home/sec/Documents/myfirstexperiment/webserver-1/images/serveroutput.png
+### server-side output:
+![serveroutput](https://user-images.githubusercontent.com/120244201/211003362-a9790243-f938-4b39-b1d3-3f17edad089c.png)
 
 ## RESULT:
 The program is executed succesfully
